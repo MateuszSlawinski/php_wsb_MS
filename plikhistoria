@@ -1,0 +1,50 @@
+    1  alias c=clear
+    2  pwd
+    3  git clone https://github.com/MateuszSlawinski/wsb_php_MS.git
+    4  ls
+    5  cd wsb_php_MS
+    6  git commit
+    7  git config --global user.email "slawinmat@wp.pl"
+    8  git config --global user.name "MateuszSlawinski"
+    9  git status
+   10  git commit
+   11  alias c=clear
+   12  pwd
+   13  git clone https://github.com/MateuszSlawinski/wsb_php_MS.git
+   14  cd ~/
+   15  mkdir code
+   16  cd code
+   17  rmdir code
+   18  cd ~/
+   19  rmdir code
+   20  cd code
+   21  alias c=clear
+   22  pwd
+   23  git clone https://github.com/MateuszSlawinski/wsb_php_MS.git
+   24  git clone https://github.com/MateuszSlawinski/wsb_php_MS.git
+   25  git clone https://github.com/MateuszSlawinski/wsb_php_MS.git
+   26  git clone https://github.com/MateuszSlawinski/wsb_php_MS.git
+   27  rmdir https://github.com/MateuszSlawinski/wsb_php_MS.git
+   28  git clone https://github.com/MateuszSlawinski/wsb_php_MS.git
+   29  pwd
+   30  alias c=clear
+   31  pwd
+   32  git clone https://github.com/MateuszSlawinski/wsb_php_MS.git
+   33  git clone https://github.com/MateuszSlawinski/wsb_php_MS.git
+   34  git clone https://github.com/MateuszSlawinski/php_wsb_MS.git
+   35  git clone https://github.com/MateuszSlawinski/php_wsb_MS.git
+   36  fin project create
+   37  $ fin project create
+   38  history > plik1
+   39  plik1 > history
+   40  alias c=clear
+   41  pwd
+   42  git clone https://github.com/MateuszSlawinski/php_wsb_MS.git
+   43  ls
+   44  cd php_wsb_MS
+   45  git config --global.email "slawinmat@wp.pl"
+   46  git commit
+   47  git config --global user.email "slawinmat@wp.pl"
+   48  git config --global user.name "MateuszSlawinski"
+   49  git status
+   50  history > plikhistoria
